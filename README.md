@@ -120,6 +120,8 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 - [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - Claude Code skill integration via MCP for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code-skill?style=social)
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
 
+- [twzrd-sol/wzrd-intel-live](https://intel.twzrd.xyz) - On-chain trust scoring MCP server for Solana AI agent wallets. Free tools: `score_agent`, `preflight_check`. Paid: `get_trust_receipt` via x402. ![GitHub stars](https://img.shields.io/github/stars/twzrd-sol/wzrd-intel-live?style=social)
+
 ## Media and Papers
 
 - [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) - MacStories coverage of early Clawdbot/OpenClaw personal-agent workflows.
